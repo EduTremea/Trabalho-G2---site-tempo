@@ -20,7 +20,7 @@ Esta é uma aplicação simples de previsão do tempo que utiliza a API do OpenW
 ## Como Executar a Aplicação Localmente
 1. Clone o repositório:
 
-git clone https://github.com/EduTremea/Trabalho-G2-site-tempo.git
+git clone https://github.com/EduTremea/Trabalho-G2-tempo
 
 2. Navegue até o diretório do projeto:
 
